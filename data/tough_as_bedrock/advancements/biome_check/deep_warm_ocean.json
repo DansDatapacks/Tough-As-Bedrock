@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "deep_warm_ocean": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:deep_warm_ocean"
+            }
+        }
+    },
+	"parent": "tough_as_bedrock:biome_check/root",
+	"rewards": {
+        "function": "tough_as_bedrock:temperature/scan/biome_check/deep_warm_ocean"
+    }
+}

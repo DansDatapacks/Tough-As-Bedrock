@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "small_end_islands": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:small_end_islands"
+            }
+        }
+    },
+	"parent": "tough_as_bedrock:biome_check/root",
+	"rewards": {
+        "function": "tough_as_bedrock:temperature/scan/biome_check/small_end_islands"
+    }
+}

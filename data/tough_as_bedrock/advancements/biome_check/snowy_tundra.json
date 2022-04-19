@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "snowy_tundra": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:snowy_tundra"
+            }
+        }
+    },
+	"parent": "tough_as_bedrock:biome_check/root",
+	"rewards": {
+        "function": "tough_as_bedrock:temperature/scan/biome_check/snowy_tundra"
+    }
+}

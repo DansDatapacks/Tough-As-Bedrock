@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:potion",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'{\"translate\":\"Pure Water Bottle\",\"italic\":false}'},CustomPotionColor:900863,thirst_value:6,thirst_saturation_value:30}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

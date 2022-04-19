@@ -1,0 +1,15 @@
+{
+    "rewards": {
+        "function": "tough_as_bedrock:on_event/on_item_frame_interact"
+      },
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:player_interacted_with_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:item_frame"
+          }
+        }
+      }
+    }
+  }

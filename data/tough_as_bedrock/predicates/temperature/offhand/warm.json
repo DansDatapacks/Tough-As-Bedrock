@@ -1,0 +1,93 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:torch"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:redstone_torch"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:redstone_block"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:sea_lantern"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:sea_pickle"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:fire_charge"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:lantern"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:jack_o_lantern"
+			}
+		  }
+		}
+	  }
+	]
+  }

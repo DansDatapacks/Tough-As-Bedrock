@@ -1,0 +1,71 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:blaze_rod"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:blaze_powder"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:campfire"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:magma_block"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:soul_torch"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"offhand": {
+              "item": "minecraft:soul_lantern"
+			}
+		  }
+		}
+	  }
+	]
+  }

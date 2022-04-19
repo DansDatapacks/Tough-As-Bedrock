@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "birch_forest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:birch_forest"
+            }
+        }
+    },
+	"parent": "tough_as_bedrock:biome_check/root",
+	"rewards": {
+        "function": "tough_as_bedrock:temperature/scan/biome_check/birch_forest"
+    }
+}

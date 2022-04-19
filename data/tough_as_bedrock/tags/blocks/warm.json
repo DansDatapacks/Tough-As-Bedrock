@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:torch",
+      "minecraft:wall_torch",
+      "minecraft:redstone_torch",
+      "minecraft:redstone_wall_torch",
+      "minecraft:redstone_wire",
+      "minecraft:redstone_ore",
+      "minecraft:redstone_block",
+      "minecraft:redstone_lamp",
+      "minecraft:sea_lantern",
+      "minecraft:sea_pickle",
+      "minecraft:furnace",
+      "minecraft:blast_furnace",
+      "minecraft:smoker",
+      "minecraft:lantern",
+      "minecraft:jack_o_lantern"
+    ]
+}

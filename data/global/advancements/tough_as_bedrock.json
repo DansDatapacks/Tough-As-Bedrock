@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Tough As Bedrock",
+    "description": "Adds Thirst, Stamina, and Temperature.",
+    "icon": {
+			"item": "minecraft:bedrock"
+		},
+    "background": "minecraft:textures/block/black_concrete_powder.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:danmizu",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

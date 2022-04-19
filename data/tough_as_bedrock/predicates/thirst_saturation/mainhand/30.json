@@ -1,0 +1,49 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"mainhand": {
+              "item": "minecraft:mushroom_stew"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"mainhand": {
+              "item": "minecraft:rabbit_stew"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"mainhand": {
+              "item": "minecraft:suspicious_stew"
+			}
+		  }
+		}
+	  },
+	  {
+		"condition": "minecraft:entity_properties",
+		"entity": "this",
+		"predicate": {
+		  "equipment": {
+			"mainhand": {
+              "item": "minecraft:beetroot_soup"
+			}
+		  }
+		}
+	  }
+	]
+  }

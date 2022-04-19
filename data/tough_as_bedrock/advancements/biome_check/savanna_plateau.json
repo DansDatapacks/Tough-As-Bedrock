@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "savanna_plateau": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:savanna_plateau"
+            }
+        }
+    },
+	"parent": "tough_as_bedrock:biome_check/root",
+	"rewards": {
+        "function": "tough_as_bedrock:temperature/scan/biome_check/savanna_plateau"
+    }
+}

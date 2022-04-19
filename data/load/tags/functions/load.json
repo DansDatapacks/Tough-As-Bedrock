@@ -1,0 +1,6 @@
+{
+    "values": [
+		"tough_as_bedrock:on_event/on_load",
+		"tough_as_bedrock:math/on_event/on_install"
+	]
+}

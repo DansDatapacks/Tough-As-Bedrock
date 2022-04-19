@@ -1,0 +1,10 @@
+{
+    "rewards": {
+      "function": "tough_as_bedrock:on_event/on_consume"
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item"
+      }
+    }
+}
